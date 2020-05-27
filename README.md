@@ -9,5 +9,5 @@ asciinema rec my-file-name.cast
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Har-Kuun/sshsharer@1.0/sshsharer-player.css" />	
 <sshsharer-player src="https://link-to-your.cast"></sshsharer-player>
-<script src="https://cdn.jsdelivr.net/gh/Har-Kuun/sshsharer@1.0/sshsharer-player.js" start-at=120></script>
+<script src="https://cdn.jsdelivr.net/gh/Har-Kuun/sshsharer@1.0/sshsharer-player.js"></script>
 ```
