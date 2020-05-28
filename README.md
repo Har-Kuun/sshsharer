@@ -11,3 +11,5 @@ asciinema rec my-file-name.cast
 <sshsharer-player src="https://link-to-your.cast"></sshsharer-player>
 <script src="https://cdn.jsdelivr.net/gh/Har-Kuun/sshsharer@1.0/sshsharer-player.js"></script>
 ```
+
+Copyright [Asciinema](https://asciinema.org)
